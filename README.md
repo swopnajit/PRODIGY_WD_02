@@ -1,6 +1,6 @@
 # PRODIGY_WD_02
 
-## Intership Task 2
+## Internship Task 2
 
 This repository contains...
 
