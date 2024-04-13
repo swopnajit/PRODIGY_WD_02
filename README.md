@@ -19,3 +19,5 @@ This project is licensed under the [MIT License](license_url).
 ---
 
 Excited to announce the completion of my second task at Prodigy InfoTech! 🚀 Grateful for the opportunity to learn and contribute to impactful projects. Looking forward to the next challenge! #ProdigyInfoTech #FirstTaskCompleted #CareerMilestone
+
+![image](https://github.com/swopnajit/PRODIGY_WD_02/assets/137583964/cede73a0-1b85-457c-962a-6b62ab681cdc)
